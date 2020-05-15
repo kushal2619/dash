@@ -1,0 +1,11 @@
+.containerDash {
+  padding: 10px 0 !important; 
+  margin: 0 !important;
+  width: 100% !important;
+  min-width: 100% !important;
+  background-color: #202020;
+}
+
+#dropdown-item-button {
+  min-width: 200px;
+}
