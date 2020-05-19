@@ -6,6 +6,19 @@
   background-color: #202020;
 }
 
-#dropdown-item-button {
-  min-width: 200px;
+#expiryDropdownMenu {
+  min-width: 150px;
+}
+
+#tickerDropdownMenu {
+  min-width: 150px;
+}
+
+
+#strikeDistanceDropdownMenu {
+  min-width: 150px;
+}
+
+#totContractsDropdownMenu {
+  min-width: 150px;
 }
