@@ -18,6 +18,14 @@ import {
 import "./DashboardStyle.css";
 import op1 from "./add2.png";
 
+const func1 = () => {
+  console.log("foo");
+}
+
+const func2 = () => {
+  console.log("bar");
+}
+
 class Dashboard extends Component {
   state = {
     apiKey: "",
